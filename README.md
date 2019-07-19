@@ -1,2 +1,2 @@
-# ad-android-quickstart
+# quickstart-android-ads
 Facebook &amp; Admob Android Examples of using adverts...
